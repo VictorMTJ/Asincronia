@@ -18,3 +18,4 @@ for(let j = 0; j <100000000; j++){
 
 
 //el alert terminara por mostrar 10000000
+// ejecuta despues del bloque, por que trabaja con event loop. 

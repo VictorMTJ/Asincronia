@@ -1,0 +1,46 @@
+header{
+
+    width: 100%;
+    height: 250px;
+    background-color: #455262;
+}
+body{
+    background-color: #b0bb83;
+    text-align: center;
+
+}
+
+.secciones{
+    margin-top: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+.seccion{
+    width: 100%;
+    height: 300px;
+    background-color: #455262;
+    justify-content: center;
+}
+.seccion1{
+    width: 50%;
+    height: 300px;
+    background-color: #455262;
+    justify-content: center;
+}
+
+p{
+    text-align: center;
+}
+
+img{
+    margin-top: 40px;
+    width: 75%;
+    height: 75%;
+}
+.seccion2{
+    width: 50%;
+    height: 300px;
+    background-color: #455262;
+
+}
